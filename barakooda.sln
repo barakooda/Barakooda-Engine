@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Barbox", "Barbox\Barbox.vcxproj", "{85F18D9E-C6CD-4B1D-931E-740D25B97E4E}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "barakooda", "barakooda\barakooda.vcxproj", "{C4A5019A-6AD9-44D9-89D0-6074781C0FD3}"
+EndProject
+
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4A5019A-6AD9-44D9-89D0-6074781C0FD3}.Debug|x64.ActiveCfg = Debug|x64
+		{C4A5019A-6AD9-44D9-89D0-6074781C0FD3}.Debug|x64.Build.0 = Debug|x64
+		{C4A5019A-6AD9-44D9-89D0-6074781C0FD3}.Release|x64.ActiveCfg = Release|x64
+		{C4A5019A-6AD9-44D9-89D0-6074781C0FD3}.Release|x64.Build.0 = Release|x64
+		{85F18D9E-C6CD-4B1D-931E-740D25B97E4E}.Debug|x64.ActiveCfg = Debug|x64
+		{85F18D9E-C6CD-4B1D-931E-740D25B97E4E}.Debug|x64.Build.0 = Debug|x64
+		{85F18D9E-C6CD-4B1D-931E-740D25B97E4E}.Release|x64.ActiveCfg = Release|x64
+		{85F18D9E-C6CD-4B1D-931E-740D25B97E4E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB847AFB-F148-4EBF-B186-7A9CD8F40F0F}
+	EndGlobalSection
+EndGlobal
